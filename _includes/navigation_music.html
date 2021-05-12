@@ -1,0 +1,5 @@
+<nav>
+    {% for item in site.data.navi_music %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}color="green"{% endif %}>{{ item.name }}</a>
+    {% endfor %}
+</nav>

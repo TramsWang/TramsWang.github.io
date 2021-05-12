@@ -1,0 +1,8 @@
+- name: 关于我
+  link: /
+- name: 学术
+  link: /research/experience.html
+- name: 文字
+  link: /writing/fictions.html
+- name: 音乐
+  link: /music/performance.html

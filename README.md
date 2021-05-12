@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Dev Instructions
 
-You can use the [editor on GitHub](https://github.com/TramsWang/TramsWang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 1. Install Jekyll and Relatives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Install Ruby and dependencies
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+sudo apt install ruby-full build-essential zlib1g-dev
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Then add following environment variables to `.bashrc`
 
-### Jekyll Themes
+```sh
+# Install Ruby Gems to ~/gems
+export GEM_HOME="$HOME/gems"
+export PATH=$HOME/gems/bin:$PATH
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TramsWang/TramsWang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Enable the modification
 
-### Support or Contact
+```sh
+source .bashrc
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Then install Jekyll & Bundler
+
+```sh
+gem install jekyll bundler
+```
+
+## 2. Build & Test Locally
+
+Navigate to the source root of the site.
+
+Initiate project
+
+```sh
+bundle init
+```
+
+Add following lines to `Gemfile`
+
+```sh
+gem "jekyll"
+```
+
+Then there are 2 options:
+
+1. Build only:
+
+   Builds the site and outputs a static site to a directory called `_site`.
+
+   ```sh
+   jekyll build
+   ```
+
+2. Build & Monitor:
+
+   Does `jekyll build` and runs it on a local web server at `http://localhost:4000`, rebuilding the site any time you make a change.
+
+   ```sh
+   jekyll serve
+   ```
+
+   Or the following command (This restricts your Ruby environment to only use gems set in your `Gemfile`)
+   
+   ```sh
+   bundle exec jekyll serve
+   ```
+   
+   
+

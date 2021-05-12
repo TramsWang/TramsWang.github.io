@@ -1,0 +1,10 @@
+- name: 履历
+  link: /research/experience.html
+- name: 项目
+  link: /research/projects.html
+- name: 论文
+  link: /research/publications.html
+- name: 专利
+  link: /research/patents.html
+- name: 想法
+  link: /research/thoughts.html

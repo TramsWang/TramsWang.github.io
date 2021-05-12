@@ -1,0 +1,20 @@
+# Track Source Files
+/*
+!/Gemfile
+!/Gemfile.lock
+!/_config.yml
+!/README.md
+!/index.md
+!/_data
+!/_includes
+!/_layouts
+!/_music
+!/_research
+!/_research_thoughts
+!/_writing
+!/_writing_essays
+!/_writing_fictions
+!/_writing_poetry
+
+# Track Ignore File
+!/.gitignore

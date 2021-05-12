@@ -1,1 +1,57 @@
-theme: jekyll-theme-hacker
+collections:
+  research:
+    output: true
+  research_thoughts:
+    output: true
+  writing:
+    output: true
+  writing_fictions:
+    output: true
+  writing_poetry:
+    output: true
+  writing_essays:
+    output: true
+  music:
+    output: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
+  - scope:
+      path: ""
+      type: "research_thoughts"
+    values:
+      layout: "research_posts"
+  - scope:
+      path: ""
+      type: "writing"
+    values:
+      layout: "writing"
+  - scope:
+      path: ""
+      type: "writing_fictions"
+    values:
+      layout: "writing_posts"
+  - scope:
+      path: ""
+      type: "writing_poetry"
+    values:
+      layout: "writing_posts"
+  - scope:
+      path: ""
+      type: "writing_essays"
+    values:
+      layout: "writing_posts"
+  - scope:
+      path: ""
+      type: "music"
+    values:
+      layout: "music"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
