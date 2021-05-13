@@ -1,3 +1,7 @@
+title: 王若愚
+description: 跨界键盘侠
+lang: zh
+
 collections:
   research:
     output: true
@@ -13,7 +17,6 @@ collections:
     output: true
   music:
     output: true
-
 
 defaults:
   - scope:

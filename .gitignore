@@ -15,6 +15,9 @@
 !/_writing_essays
 !/_writing_fictions
 !/_writing_poetry
+!/_sass
+!/assets
+!/script
 
 # Track Ignore File
 !/.gitignore

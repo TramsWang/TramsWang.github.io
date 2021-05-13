@@ -1,5 +1,5 @@
-<nav>
-    {% for item in site.data.navi_writing %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}color="green"{% endif %}>{{ item.name }}</a>
-    {% endfor %}
-</nav>
+<div class="vertical-menu">
+  {% for item in site.data.navi_writing %}
+    <a href="{{ item.link }}">{{ item.name }}</a>
+  {% endfor %}
+</div>
