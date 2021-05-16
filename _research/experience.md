@@ -78,5 +78,6 @@ title: 履历
 - 知识表示与推理（Knowledge Representation & Reasoning）
 - 规则挖掘（Rule Mining）
 - Inductive Logic Programming
+- 智慧医疗（Intelligent Healthcare, Smart Healthcare）
 - 异常检测（Anomaly Detection）
 - 大数据分析（Big Data Analytics）
