@@ -2,6 +2,9 @@ title: 王若愚
 description: 跨界键盘侠
 lang: zh
 
+# Build settings
+markdown: kramdown
+
 collections:
   research:
     output: true

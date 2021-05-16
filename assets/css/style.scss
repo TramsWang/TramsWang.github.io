@@ -57,3 +57,25 @@
     background-color: #04AA6D; /* Add a green color to the "active/current" link */
     color: white;
 }
+
+/* For Displaying References */
+ol.reference {
+  counter-reset: reference-counter;
+  // list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ol.reference li {
+  counter-increment: reference-counter;
+  display: block;
+  margin-bottom: .5em;
+  margin-left: 2em;
+}
+
+ol.reference li::before {
+  content: "[" counter(reference-counter) "]";
+  display: inline-block;
+  width: 2em;
+  margin-left: -2em;
+}
