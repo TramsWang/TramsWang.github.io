@@ -2,6 +2,23 @@
 title: 履历
 ---
 
+## 工作经历
+<table border="0">
+    <colgroup>
+       <col span="1" style="width: 11%;">
+       <col span="1" style="width: 1%;">
+       <col span="1" style="width: 11%;">
+    </colgroup>
+	<tr>
+	  <td>2018-08</td>
+	  <td>-</td>
+	  <td></td>
+	  <td>因何科技（上海）有限责任公司</td>
+	  <td>智慧医疗，知识抽取，知识纠错</td>
+	  <td>CTO</td>
+	</tr>
+</table>
+
 ## 教育经历
 
 <table border="0">

@@ -7,7 +7,7 @@ layout: research
 <p><small>{{ page.date | date: "%Y-%m-%d" }}</small></p>
 
 {% if page.tags %}
-  <p><small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small></p>
+  <p><small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small></p>
 {% endif %}
 
 {{content}}
