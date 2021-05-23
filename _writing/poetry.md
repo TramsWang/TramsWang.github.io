@@ -2,12 +2,11 @@
 title: 诗词
 ---
 
-**[这里放诗词文章列表]**
-
 <ul>
-  {% for post in site.writing_poetry %}
+  {% assign sorted = site.writing_poetry | sort: 'date' | reverse %}
+  {% for post in sorted %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2>({{ post.date | date: "%Y-%m-%d" }})<a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}
