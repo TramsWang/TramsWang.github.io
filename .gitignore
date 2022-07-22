@@ -1,7 +1,7 @@
 # Track Source Files
 /*
 !/Gemfile
-!/Gemfile.lock
+# !/Gemfile.lock
 !/_config.yml
 !/README.md
 !/index.md
