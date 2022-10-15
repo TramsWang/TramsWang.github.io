@@ -4,11 +4,13 @@ title: 发表论文
 
 ## 主要期刊
 <ol class="reference">
+  <li>Wang, R., Sun, D., & Wong, R. (2022). SInC: Semantic Approach and Enhancement for Relational Data Compression.
   <li>Wang, R., Sun, D., Li, G., Wong, R., & Chen, S. (2020). Pipeline provenance for cloud‐based big data analytics. Software: Practice and Experience, 50(5), 658-674.<a herf="https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2744">&#128279;</a></li>
 </ol>
 
 ## 主要会议
 <ol class="reference">
+  <li>Wang, R., Sun, D., & Wong, R. RDF Knowledge Base Summarization by Inducing First-order Horn Rules.
   <li>R. Wang et al., "Statistical Detection Of Collective Data Fraud," 2020 IEEE International Conference on Multimedia and Expo (ICME), 2020, pp. 1-6, doi: 10.1109/ICME46284.2020.9102889.<a href="https://ieeexplore.ieee.org/abstract/document/9102889">&#128279;</a></li>
   <li>Chenxiao Dou, Ruoyu Wang, Daniel Sun, and Muhammad Atif. 2017. Efficient Density-Based Blocking for Record Matching. In Proceedings of the 21st International Database Engineering & Applications Symposium (IDEAS 2017). Association for Computing Machinery, New York, NY, USA, 118–126. DOI:https://doi.org/10.1145/3105831.3105844<a href="https://dl.acm.org/doi/abs/10.1145/3105831.3105844">&#128279;</a></li>
   <li>R. Wang, D. Sun, G. Li, M. Atif and S. Nepal, "LogProv: Logging events as provenance of big data analytics pipelines with trustworthiness," 2016 IEEE International Conference on Big Data (Big Data), 2016, pp. 1402-1411, doi: 10.1109/BigData.2016.7840748.<a href="https://ieeexplore.ieee.org/abstract/document/7840748/">&#128279;</a></li>
