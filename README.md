@@ -69,4 +69,19 @@ Then there are 2 options:
    ```
    
    
+## 3. Fix Ruby Version Issues
 
+Install [here](https://rvm.io/rvm/install).
+
+If the following error occur:
+
+> RVM is not a function, selecting rubies with 'rvm use ...' will not work.
+
+run the following commands:
+
+```sh
+$ source ~/.rvm/scripts/rvm
+$ type rvm | head -n 1
+```
+
+If it returns "rvm is a function", the problem is solved.
