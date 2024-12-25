@@ -18,6 +18,8 @@ collections:
     output: true
   writing_essays:
     output: true
+  writing_readings:
+    output: true
   music:
     output: true
 
@@ -50,6 +52,11 @@ defaults:
   - scope:
       path: ""
       type: "writing_essays"
+    values:
+      layout: "writing_posts"
+  - scope:
+      path: ""
+      type: "writing_readings"
     values:
       layout: "writing_posts"
   - scope:

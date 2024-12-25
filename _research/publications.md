@@ -13,6 +13,7 @@ title: 发表论文
 
 ## 主要会议
 <ol class="reference">
+  <li><b style="color:#b5e853">R. Wang</b>, R. K. Wong, and D. Sun, "Efficient Pruning via Entailment Cardinality Estimation for Fast Top-down Logic Rule Mining," in <i>the 2025 IEEE International Conference on Data Engineering, ICDE 25</i>.<a href="">&#128279;</a></li>
   <li><b style="color:#b5e853">R. Wang</b>, D. Sun, and R. K. Wong, "RDF knowledge base summarization by inducing first-order horn rules," in <i>Machine Learning and Knowledge Discovery in Databases - European Conference, ECML PKDD,Proceedings, Part II</i>, ser. Lecture Notes in Computer Science, vol. 13714. Springer, 2022, pp. 188-204.<a href="https://link.springer.com/chapter/10.1007/978-3-031-26390-3_12">&#128279;</a></li>
   <li><b style="color:#b5e853">R. Wang</b> X. Hu, D. Sun, G. Li, R. K. Wong, S. Chen, and J. Liu, "Statistical detection of collective data fraud," in IEEE International Conference on Multimedia and Expo, ICME. IEEE, 2020, pp. 1-6.<a href="https://ieeexplore.ieee.org/abstract/document/9102889">&#128279;</a></li>
   <li><b style="color:#b5e853">R. Wang</b>, D. Sun, G. Li, M. Atif, and S. Nepal, "Logprov: Logging events as provenance of big data analytics pipelines with trustworthiness," in <i>IEEE International Conference on Big Data</i>. IEEE Computer Society, 2016, pp. 1402-1411.<a href="https://ieeexplore.ieee.org/abstract/document/7840748/">&#128279;</a></li>
