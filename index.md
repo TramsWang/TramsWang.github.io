@@ -18,12 +18,10 @@ title: 关于我
 新动态：
 
 1. （2026.08.17）假期四天与老婆同去无锡度假放松，得辄易款待，幸甚，遂发诗性，得[《望海潮》]({{ site.baseurl }}{% link _writing_poetry/2026-08-17-望海潮·无锡度假.md %})一篇
+1. （2026.07.27）我添加了[《基督山伯爵》]({{ site.baseurl }}{% link _writing_readings/外国文学.md %}#基督山伯爵)的书评
+1. （2026.01.03）我添加了[《问陶》]({{ site.baseurl }}{% link _writing_poetry/2026-01-03-问陶.md %})
 1. （2025.02.07）我的[一篇文章]({{ site.baseurl }}{% link _research/publications.md %})在SPE上发表啦
 1. （2025.01.02）我添加了[《回忆总是美好的》]({{ site.baseurl }}{% link _music_sheets/2024-10-20-回忆总是美好的.md %})钢琴谱
-1. （2024.12.25）我整理了[已有的一些书评]({{ site.baseurl }}{% link _writing/readings.md %})
-2. （2024.12.25）我添加了[《365夜知识童话》]({{ site.baseurl }}{% link _writing_readings/启蒙读物.md %}#365夜知识童话)的书评
-<!-- 3. （2024.12.25）我发起了一个新的栏目：“[文字/阅读]({{ site.baseurl }}{% link _writing/readings.md %})”，以总结我所读到过的有意思的书籍。
-4. （2024.12.03）[我的文章]({{ site.baseurl }}{% link _research/publications.md %})被ICDE'25接收啦！ -->
 
 ---
 
